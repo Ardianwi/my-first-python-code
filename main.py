@@ -20,7 +20,9 @@ jumlah_botol_susu=1
 if jumlah_botol_susu>0:
     print('Budi mengecek harga botol susu')
     print('Budi membeli 1 botol susu')
-    print('Anak Pulang Ke Rumah')
-    print('Budi menyerahkan hasil ke Mama')
+
 else:
     print('Budi tidak jadi membeli botol susu')
+
+print('Anak Pulang Ke Rumah')
+print('Budi menyerahkan hasil ke Mama')
