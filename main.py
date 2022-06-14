@@ -14,3 +14,11 @@ print('Budi mulai berelanja')
 print('Budi membeli susu 6')
 
 # Percabangan
+
+jumlah_botol_susu=10
+
+if jumlah_botol_susu>0:
+    print('Budi mengecek harga botol susu')
+    print('Budi membeli 1 botol susu')
+else:
+    print('Budi tidak jadi membeli botol susu')
