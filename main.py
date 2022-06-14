@@ -12,3 +12,5 @@ print('ibu menjawa, "Beli 1 botol susu, dan jika ada telur 6"')
 print('Maka Budi berangkat sekarang')
 print('Budi mulai berelanja')
 print('Budi membeli susu 6')
+
+# Percabangan
