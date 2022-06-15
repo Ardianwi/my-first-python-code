@@ -3,4 +3,4 @@ perulangan
 """
 
 jumlah_buku=10
-print('baca semua buku')
+print(f'baca semua buku{jumlah_buku}')
