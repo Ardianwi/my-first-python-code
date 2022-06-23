@@ -33,3 +33,11 @@ else:
 
 print('Anak Pulang Ke Rumah')
 print('Budi menyerahkan hasil ke Mama')
+
+# Sequential
+
+print('Ibu Berkata"Nak Beli ke toko dan beli susu 6 dan 1 wortel ya"')
+print('Anak Berkata"OK!"')
+print('Budi pergi ke toko dan membeli 6 botol susu dan 1 wortel')
+print('Budi Pergi ke rumah')
+print('Budi Menyerahkan hasil pembeliaannya')
